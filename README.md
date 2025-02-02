@@ -1,4 +1,5 @@
 # AngularTodoList
+To Do List that allows users to add, delete and mark list items as complete/incomplete
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
